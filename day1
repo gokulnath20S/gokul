@@ -2,3 +2,6 @@ const add = 10+2
  console.log(add) 
 const subs = 10-2 
 console.log(subs)
+OUTPUT
+The Added value is 12
+The subtracted value is 8
